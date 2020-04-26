@@ -43,4 +43,3 @@ swiperOption: {
 
 ```
 ![效果图](https://graph.baidu.com/resource/121f42f3e1750a105a5d601587895709.jpg)
-s
